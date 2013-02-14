@@ -1,0 +1,5 @@
+1. Open AssemblyPath.xml
+
+2. Set the <SitecoreReferencesPath> node to the path of the folder that contains the assemblies for the version of Sitecore you're building against. By default, this is set to the lib folder in the root, but it can be changed to any file system path.
+
+3. Build
